@@ -1,2 +1,2 @@
-wicgames.github.io
+wicgames.com website
 ==================
